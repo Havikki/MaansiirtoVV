@@ -48,6 +48,10 @@ a:hover {
     color: #FF7F11;
   }
 
+.nyt {
+    text-decoration: underline;
+}
+
 /* 🔹 MAIN CONTENT */
 .container {
     display: flex;
